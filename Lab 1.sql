@@ -1,9 +1,4 @@
--- ***********************
--- Name: Jihyun Yoon
--- ID: 124558172
--- Date: 2018/05/17
--- Purpose: Lab 2 DBS301
--- ***********************
+
 
 SET PAGESIZE 200;
 SET LINESIZE 200;
